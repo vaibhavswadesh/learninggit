@@ -1,3 +1,3 @@
 trying fast farward merge
-leraning:-to resolve merge conflict
+learning:-to resolve merge conflict
 
